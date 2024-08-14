@@ -5,7 +5,7 @@ However, the management noticed that they do not get enough insights to make qui
 
 :link: Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-:link: [LinkedIn Post](   )
+:link: [LinkedIn Post](https://www.linkedin.com/posts/charmi-patel-771815242_codebasicsanalyticschallenge-powerbi-sql-activity-7229528802207424512-5vp_?utm_source=share&utm_medium=member_desktop)
 
 Here's a rundown of everything I've learned:
 ## :mag: Key Skills:
@@ -119,9 +119,6 @@ products within a database or system.
 
 ## :chart_with_upwards_trend:	Data Model
 ![dm_1](https://github.com/user-attachments/assets/79613bb2-0d84-461d-b778-5c7a7a241fd0)
-
-## 📶OVERALL OUTPUT AND INSIGHTS
-
 
 ## ✍🏻SOME IMPORTANT INSIGHTS FROM THE DASHBOARD
 
