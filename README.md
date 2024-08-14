@@ -32,8 +32,11 @@ To generate and present meaningful insights to top management, the Data Analytic
 Other resources Provided:
 
 a.    Dataset required to provide 
+
 b.    Metadata
+
 c.    Hints (try not to use the hints to develop your skills quicker)
+
 d.    Sample questions and Presentation
  
 ## :open_file_folder:UNDERSTANDING DATA SET
